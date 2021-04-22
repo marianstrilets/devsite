@@ -1,0 +1,21 @@
+{
+  "name": "devsite",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "marianstrilets"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/marianstrilets/devsite",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "reset.css": "^1.1.3"
+  }
+}
